@@ -27,10 +27,11 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - How to clone a repository, create and edit files, and commit changes with descriptive commit messages.
 
 **I struggled with:** (repeat as needed)
-- Initially I opened it in my IDE but then I remembered that you can create and edit files directly on GitHub.
+- Initially I opened it in my IDE of choice (PyCharm Professional) and it was not letting me push due to insufficient permissions, so I went back to GitHub to make the required changes.
 
 **I need the instructor to help me with:** (repeat as needed)
-- I am good for now.
+- I am unsure if it is on my side that was preventing me from making changes. I received the following error: `remote: Permission to IT4063C-Fall24/hello-github-agrawasu.git denied to agrawasu.
+fatal: unable to access 'https://github.com/IT4063C-Fall24/hello-github-agrawasu/': The requested URL returned error: 403`. If you can provide assistance on how to get around this, that would be great.
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
