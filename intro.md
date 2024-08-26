@@ -1,2 +1,2 @@
-# My Name
-Hello class, my name is [type your name], and I am a student at the University of [type the university name].
+# Samir Agrawal
+Hello class, my name is Samir Agrawal, and I am a student at the University of Cincinnati.
